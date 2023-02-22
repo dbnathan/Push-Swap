@@ -1,1 +1,1 @@
-# Push-Swap
+# {EPITECH} | First year | Elementary programming in C project
