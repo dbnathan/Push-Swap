@@ -10,8 +10,8 @@ Push-Swap is a sorting algorithm project that challenges you to sort a stack of 
 
 **Features:**
 
-    The algorithm is optimized for efficiency, with a focus on minimizing the number of instructions used to sort the list.
-    The code is written in C, making it fast and efficient.
+* The algorithm is optimized for efficiency, with a focus on minimizing the number of instructions used to sort the list.
+* The code is written in C, making it fast and efficient.
 
 **Usage:**
 The program takes a list of integers as input, which can be passed as arguments when running the program. For example, to sort the list "4 67 3 87 23":
